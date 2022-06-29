@@ -1,3 +1,5 @@
 Инструкция по изучаемым командам git
 
-git version
+__*git version*__
+
+git init
