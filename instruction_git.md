@@ -4,7 +4,7 @@
 
 git version
 
-* git init
+git init
 
-1. git status
+git status
 
