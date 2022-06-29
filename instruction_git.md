@@ -2,4 +2,7 @@
 
 __*git version*__
 
-git init
+* git init
+
+1. git status
+
