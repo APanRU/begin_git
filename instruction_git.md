@@ -33,10 +33,6 @@
 
 * git merge "branch_name" - слияние ветки в которой находимся с веткой "branch_name".
 
-
-
-
-
 *Примечание: при подготовке материала использованы следующие источники:*
 
 1. <https://gist.github.com/Jekins/2bf2d0638163f1294637>
@@ -44,3 +40,7 @@
 2. <https://github.com/cyberspacedk/Git-commands>
 
 3. <https://ru.markdown.net.br/rasshirennyy-sintaksis/>
+
+4. Git для профессионального программиста. С. Чакон, Б. Штрауб Изд. Питер 2022.
+
+![Хороших волн!](serf.jpg)
