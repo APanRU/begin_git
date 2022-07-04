@@ -29,7 +29,7 @@
 
 * git checkout  "branch_name" -  перейти на ветку.
 
-* git branch -d "branch_name" - удалить ветку.
+* git branch -d "branch_name" .
 
 
 
