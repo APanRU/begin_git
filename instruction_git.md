@@ -29,7 +29,7 @@
 
 * git checkout  "branch_name" -  перейти на ветку.
 
-* git branch -d "branch_name" .
+* git branch -d "branch_name" elfktybt.
 
 
 
