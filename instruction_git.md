@@ -21,6 +21,18 @@
 
 * git diff - просмотр списка изменений не подготовленных для фиксации.
 
+* git branch - показать список веток.
+
+* git branch "new_branch_name" - cоздать новую ветку.
+
+* git checkout -b "new_branch_name" - cоздать новую ветку и автоматически перейти на неё.
+
+* git checkout  "branch_name" -  перейти на ветку.
+
+* git branch -d "branch_name" 
+
+
+
 *Примечание: при подготовке материала использованы следующие источники:*
 
 1. <https://gist.github.com/Jekins/2bf2d0638163f1294637>
